@@ -1,0 +1,621 @@
+{
+  "Base": {
+    "Theme": {
+      "Navigation": {
+        "$type": "color",
+        "$value": "#194245",
+        "$description": "Used in the top level navigation and Logo holding spaces"
+      },
+      "PrimaryBackground": {
+        "$type": "color",
+        "$value": "#335759",
+        "$description": "The main background colour of the App or Site"
+      },
+      "SecondaryBackground_1": {
+        "$type": "color",
+        "$value": "#194245",
+        "$description": "A secondary background colour or the app or site. Used more commonly in the native apps"
+      },
+      "SecondaryBackground_2": {
+        "$type": "color",
+        "$value": "#194245",
+        "$description": "A secondary background colour or the app or site. Used more commonly in the native apps"
+      }
+    },
+    "Container-Fill": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#194245",
+        "$description": "The main background for displaying content on"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#668183",
+        "$description": "Used to break up content in a primary content container - such as in a table where rows are required."
+      },
+      "Strong": {
+        "$type": "color",
+        "$value": "#002d30"
+      },
+      "Dominant": {
+        "$type": "color",
+        "$value": "#335759"
+      },
+      "Forms": {
+        "$type": "color",
+        "$value": "#335759",
+        "$description": "The main background for displaying content on"
+      },
+      "Noteworthy": {
+        "$type": "color",
+        "$value": "#668183"
+      },
+      "Important": {
+        "$type": "color",
+        "$value": "#194245"
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "#194245"
+      },
+      "Error": {
+        "$type": "color",
+        "$value": "#194245"
+      },
+      "Warning-Critical": {
+        "$type": "color",
+        "$value": "#194245"
+      },
+      "Warning-Important": {
+        "$type": "color",
+        "$value": "#194245"
+      },
+      "Warning-Mild": {
+        "$type": "color",
+        "$value": "#194245"
+      }
+    },
+    "Container-Stroke": {
+      "Default": {
+        "$type": "color",
+        "$value": "#668183"
+      },
+      "Forms": {
+        "$type": "color",
+        "$value": "#DCE2E6",
+        "$description": "The stroke around any data entry or form field when in the default state"
+      },
+      "Focus": {
+        "$type": "color",
+        "$value": "#3399FF"
+      },
+      "Divider": {
+        "$type": "color",
+        "$value": "#668183"
+      },
+      "Noteworthy": {
+        "$type": "color",
+        "$value": "#99abac"
+      },
+      "Important": {
+        "$type": "color",
+        "$value": "#ff4069"
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "#00c575"
+      },
+      "Error": {
+        "$type": "color",
+        "$value": "#e55656"
+      },
+      "Warning-Critical": {
+        "$type": "color",
+        "$value": "#e55656"
+      },
+      "Warning-Important": {
+        "$type": "color",
+        "$value": "#f56a2e"
+      },
+      "Warning-Mild": {
+        "$type": "color",
+        "$value": "#f5bd2e"
+      },
+      "Disabled": {
+        "$type": "color",
+        "$value": "#335759"
+      }
+    }
+  },
+  "Text": {
+    "Primary": {
+      "1": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#f8f9fa"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "#99abac"
+      },
+      "Brand": {
+        "$type": "color",
+        "$value": "#00c575"
+      }
+    },
+    "Secondary": {
+      "1": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    },
+    "Function": {
+      "Selected": {
+        "$type": "color",
+        "$value": "#00c575"
+      },
+      "Noteworthy": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Important": {
+        "$type": "color",
+        "$value": "#ff4069"
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "#00c575"
+      },
+      "Error": {
+        "$type": "color",
+        "$value": "#e55656"
+      },
+      "Warning-Critical": {
+        "$type": "color",
+        "$value": "#e55656"
+      },
+      "Warning-Important": {
+        "$type": "color",
+        "$value": "#f56a2e"
+      },
+      "Warning-mild": {
+        "$type": "color",
+        "$value": "#f5bd2e"
+      },
+      "Disabled": {
+        "$type": "color",
+        "$value": "#668183"
+      }
+    },
+    "Interaction": {
+      "TextLink": {
+        "$type": "color",
+        "$value": "#00c575"
+      },
+      "Primary_1": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Primary_2": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Positive": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Neutral": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Negative": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    }
+  },
+  "Icons": {
+    "Universal": {
+      "Brand": {
+        "$type": "color",
+        "$value": "#00c575"
+      },
+      "Secondary-Brand": {
+        "$type": "color",
+        "$value": "#3399ff"
+      },
+      "Strong": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Mid": {
+        "$type": "color",
+        "$value": "#ccd5d6"
+      },
+      "Reverse": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Noteworthy": {
+        "$type": "color",
+        "$value": "#668183"
+      },
+      "Important": {
+        "$type": "color",
+        "$value": "#ff4069"
+      },
+      "Sucess": {
+        "$type": "color",
+        "$value": "#00c575"
+      },
+      "Error": {
+        "$type": "color",
+        "$value": "#e55656"
+      },
+      "Warning-Critical": {
+        "$type": "color",
+        "$value": "#e55656"
+      },
+      "Warning-Important": {
+        "$type": "color",
+        "$value": "#f56a2e"
+      },
+      "Warning-Mild": {
+        "$type": "color",
+        "$value": "#f5bd2e"
+      },
+      "Disabled": {
+        "$type": "color",
+        "$value": "#D6D6D6"
+      }
+    },
+    "InButtons": {
+      "Primary_1": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Primary_2": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Positive": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Neutral": {
+        "$type": "color",
+        "$value": "#002D30"
+      },
+      "Negative": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    }
+  },
+  "Interaction": {
+    "Fill": {
+      "Primary_1": {
+        "$type": "color",
+        "$value": "#00c575"
+      },
+      "Primary_2": {
+        "$type": "color",
+        "$value": "#00c575"
+      },
+      "Positive": {
+        "$type": "color",
+        "$value": "#00c575"
+      },
+      "Neutral-1": {
+        "$type": "color",
+        "$value": "#668183"
+      },
+      "Neutral-2": {
+        "$type": "color",
+        "$value": "#99abac"
+      },
+      "Negative": {
+        "$type": "color",
+        "$value": "#e55656"
+      },
+      "Floating": {
+        "$type": "color",
+        "$value": "#FBFBFB"
+      },
+      "Subtle": {
+        "$type": "color",
+        "$value": "#194245"
+      },
+      "Focus": {
+        "$type": "color",
+        "$value": "#3399FF"
+      },
+      "Focus-Soft": {
+        "$type": "color",
+        "$value": "#d6ebff"
+      },
+      "Brand": {
+        "$type": "color",
+        "$value": "#00c575"
+      },
+      "Strong": {
+        "$type": "color",
+        "$value": "#f8f9fa"
+      },
+      "Disabled": {
+        "$type": "color",
+        "$value": "#335759"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "#0000000d"
+      },
+      "Pressed": {
+        "$type": "color",
+        "$value": "#00000026"
+      }
+    },
+    "Stroke": {
+      "Primary_1": {
+        "$type": "color",
+        "$value": "#00c575"
+      },
+      "Primary_2": {
+        "$type": "color",
+        "$value": "#00c575"
+      },
+      "Positive": {
+        "$type": "color",
+        "$value": "#00c575"
+      },
+      "Neutral-1": {
+        "$type": "color",
+        "$value": "#668183"
+      },
+      "Neutral-2": {
+        "$type": "color",
+        "$value": "#99abac"
+      },
+      "Negative": {
+        "$type": "color",
+        "$value": "#e55656"
+      },
+      "Floating": {
+        "$type": "color",
+        "$value": "#FBFBFB"
+      },
+      "Subtle": {
+        "$type": "color",
+        "$value": "#668183"
+      },
+      "Focus": {
+        "$type": "color",
+        "$value": "#3399FF"
+      },
+      "Focus-Soft": {
+        "$type": "color",
+        "$value": "#D6EBFF"
+      },
+      "Focus_Glow": {
+        "$type": "color",
+        "$value": "#ffd15580"
+      },
+      "Brand": {
+        "$type": "color",
+        "$value": "#00c575"
+      },
+      "Strong": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Disabled": {
+        "$type": "color",
+        "$value": "#335759"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "#0000000d"
+      },
+      "Pressed": {
+        "$type": "color",
+        "$value": "#00000033"
+      }
+    }
+  },
+  "SpotColours": {
+    "Signalling": {
+      "PositiveResult": {
+        "$type": "color",
+        "$value": "#00b169"
+      },
+      "NegativeResult": {
+        "$type": "color",
+        "$value": "#e55656"
+      }
+    },
+    "Cheapset_Banner": {
+      "Fill": {
+        "$type": "color",
+        "$value": "#00b169"
+      },
+      "Stroke": {
+        "$type": "color",
+        "$value": "#009e5e"
+      },
+      "Text": {
+        "$type": "color",
+        "$value": "#002d30"
+      }
+    },
+    "TicketStub": {
+      "Fill": {
+        "$type": "color",
+        "$value": "#00c575"
+      },
+      "Icon1": {
+        "$type": "color",
+        "$value": "#194245"
+      },
+      "Icon2": {
+        "$type": "color",
+        "$value": "#0f7658"
+      }
+    },
+    "SplitTicket": {
+      "1": {
+        "$type": "color",
+        "$value": "#af3fd7"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#d79feb"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "#194245"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Main": {
+        "$type": "color",
+        "$value": "#efd9f7"
+      }
+    },
+    "CO2": {
+      "1": {
+        "$type": "color",
+        "$value": "#00b169",
+        "$description": "The main background for displaying content on"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#00c575",
+        "$description": "Used to break up content in a primary content container - such as in a table where rows are required."
+      },
+      "3": {
+        "$type": "color",
+        "$value": "#e2f2ec",
+        "$description": "Used to break up content in a primary content container - such as in a table where rows are required."
+      },
+      "Main_Text": {
+        "$type": "color",
+        "$value": "#002d30"
+      },
+      "Car": {
+        "$type": "color",
+        "$value": "#668183"
+      },
+      "Plane": {
+        "$type": "color",
+        "$value": "#335759"
+      }
+    }
+  },
+  "Journey_Diagram": {
+    "Future": {
+      "$type": "color",
+      "$value": "#ffffff"
+    },
+    "Present": {
+      "$type": "color",
+      "$value": "#d6ebff"
+    },
+    "Past": {
+      "$type": "color",
+      "$value": "#99abac"
+    },
+    "Cancelled": {
+      "$type": "color",
+      "$value": "#d6d6d6"
+    },
+    "Live_Location": {
+      "$type": "color",
+      "$value": "#3399ff"
+    }
+  },
+  "SeatMaps": {
+    "Floor": {
+      "Neutral": {
+        "$type": "color",
+        "$value": "#668183"
+      },
+      "Content": {
+        "$type": "color",
+        "$value": "#597779"
+      },
+      "Coach-Stroke": {
+        "$type": "color",
+        "$value": "#668183"
+      }
+    },
+    "Option_Items": {
+      "Base-Default": {
+        "$type": "color",
+        "$value": "#668183"
+      },
+      "Base-Hover": {
+        "$type": "color",
+        "$value": "#668183"
+      },
+      "Base-Selected": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Base-Unavailable": {
+        "$type": "color",
+        "$value": "#668183"
+      },
+      "Stroke-Default": {
+        "$type": "color",
+        "$value": "#668183"
+      },
+      "Stroke-Hover": {
+        "$type": "color",
+        "$value": "#194245"
+      },
+      "Stroke-Selected": {
+        "$type": "color",
+        "$value": "#3399ff"
+      },
+      "Stroke-Unavailable": {
+        "$type": "color",
+        "$value": "#668183"
+      },
+      "Primary_Icon-Default": {
+        "$type": "color",
+        "$value": "#002d30"
+      },
+      "Primary_Icon-Hover": {
+        "$type": "color",
+        "$value": "#3c6164"
+      },
+      "Primary_Icon-Selected": {
+        "$type": "color",
+        "$value": "#009e5e"
+      },
+      "Primary_Icon-Unavailable": {
+        "$type": "color",
+        "$value": "#426061"
+      },
+      "SecondaryIconOrText": {
+        "$type": "color",
+        "$value": "#ffffff"
+      }
+    },
+    "Amenities": {
+      "1": {
+        "$type": "color",
+        "$value": "#143739"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "#597779"
+      }
+    }
+  }
+}
