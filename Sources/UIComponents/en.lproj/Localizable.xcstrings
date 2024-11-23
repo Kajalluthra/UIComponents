@@ -1,0 +1,413 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "[%@]" : {
+
+    },
+    "%@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@"
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "08:15" : {
+
+    },
+    "agreement.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "By making this booking you are agreeing to [National Rail Conditions of Travel](https://www.nationalrail.co.uk/National%20Rail%20Conditions%20of%20Travel.pdf) and [RailApp terms & Conditions](https://silver-agent.com/ui-sa/resources/js/templates/SRT-Terms-and-Conditions.html?supplier=ATOC)"
+          }
+        }
+      }
+    },
+    "bus.replacement" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bus Replacement"
+          }
+        }
+      }
+    },
+    "calling.points.header.from.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "from "
+          }
+        }
+      }
+    },
+    "calling.points.header.to.text" : {
+      "comment" : "Calling points",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "to "
+          }
+        }
+      }
+    },
+    "cancel.button" : {
+      "comment" : "Generic",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "cheapest.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHEAPEST"
+          }
+        }
+      }
+    },
+    "close.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        }
+      }
+    },
+    "confirm.email.login.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please confirm login by clicking the button found in the email."
+          }
+        }
+      }
+    },
+    "Destination Station" : {
+
+    },
+    "done.button" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "from.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From:"
+          }
+        }
+      }
+    },
+    "generic.error.message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sorry, something’s gone wrong and we cannot complete this task. Please check your connection and try again. "
+          }
+        }
+      }
+    },
+    "generic.error.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oops!"
+          }
+        }
+      }
+    },
+    "journey.details.button" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Journey details"
+          }
+        }
+      }
+    },
+    "Key" : {
+      "extractionState" : "manual"
+    },
+    "Load more" : {
+
+    },
+    "login.button" : {
+
+    },
+    "offline.banner.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You are offline. Information shown may not be up to date."
+          }
+        }
+      }
+    },
+    "ok.button.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "optional.value" : {
+      "comment" : "StationsSearchBar",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(optional)"
+          }
+        }
+      }
+    },
+    "outbound.journey.title" : {
+      "comment" : "Date and time selector",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Outbound journey"
+          }
+        }
+      }
+    },
+    "overtaken.service" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overtaken service"
+          }
+        }
+      }
+    },
+    "password.do.not.match.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passwords do not match"
+          }
+        }
+      }
+    },
+    "password.reset.button" : {
+
+    },
+    "print.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Print"
+          }
+        }
+      }
+    },
+    "remove.station.button" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove this station"
+          }
+        }
+      }
+    },
+    "required.option" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Required"
+          }
+        }
+      }
+    },
+    "resend.email.button" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Didn't get the email? Resend"
+          }
+        }
+      }
+    },
+    "return.journey.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Return journey"
+          }
+        }
+      }
+    },
+    "search.date.component.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Day"
+          }
+        }
+      }
+    },
+    "search.date.component.today" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today"
+          }
+        }
+      }
+    },
+    "search.date.component.tomorrow" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tomorrow"
+          }
+        }
+      }
+    },
+    "search.show.results.button.title" : {
+
+    },
+    "select.button" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select"
+          }
+        }
+      }
+    },
+    "sent.email.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We have sent an email to: "
+          }
+        }
+      }
+    },
+    "terms.and.conditions.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur odio felis, rhoncus ut posuere eu, eleifend at eros. Etiam ullamcorper velit augue, sit amet placerat eros fringilla sed. Praesent tempus enim nisi, sed varius nisl maximus eu. In gravida molestie augue, non auctor nunc efficitur et. Vestibulum rutrum, risus eu viverra bibendum, lacus mi consectetur elit, rhoncus pulvinar urna elit id odio. Vestibulum scelerisque odio mi, quis imperdiet odio sagittis a. Suspendisse dapibus viverra lacus id cursus. Vivamus blandit erat eros. Aenean nec mi nec risus pharetra aliquet quis et metus. Etiam at dui quis metus luctus ornare. Donec ornare mi quis sapien vulputate, in euismod nibh volutpat. Fusce massa metus, vulputate eu sodales vitae, venenatis sed lacus. Curabitur aliquet, felis tincidunt consequat consequat, metus justo faucibus ipsum, sed aliquam leo quam nec odio. Nam sit amet urna condimentum, rutrum ante vel, feugiat enim.\n    \n    Praesent a blandit tortor, nec rhoncus purus. Morbi eu pellentesque elit. Duis et posuere ex. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis et commodo ipsum. Pellentesque ultricies ligula velit, eu egestas tortor bibendum pretium. Nam tempus eu sapien fringilla volutpat.\n                               \n    Ut a massa volutpat, volutpat est sit amet, sollicitudin lacus. Duis in erat nec ante sagittis egestas in eget neque. Vestibulum quis bibendum ligula. Duis nec luctus felis. Nunc dictum felis nec luctus accumsan. Cras porta nunc nisl, eget sollicitudin sapien dignissim ac. Nulla facilisi. Praesent accumsan tortor non odio commodo, eu aliquam justo pulvinar. Mauris tincidunt, lacus quis accumsan laoreet, purus enim tristique risus, at volutpat massa metus sit amet nisl. Etiam nec ultrices elit, quis vestibulum justo. Pellentesque sed eros nisl. Praesent in neque arcu. Nunc vel ligula eget est eleifend vulputate.\n                               \n    Quisque risus eros, feugiat eu leo a, sagittis dictum risus. Nam cursus enim turpis, sit amet iaculis eros feugiat ut. Fusce justo erat, cursus nec imperdiet ac, posuere rhoncus turpis. Mauris ornare varius sem sit amet scelerisque. Ut auctor vestibulum tristique. Aenean luctus justo dui, nec interdum ligula sodales sed. Donec euismod quam turpis, sit amet varius erat vehicula sollicitudin.\n                               \n    Aenean faucibus, diam eu interdum fringilla, nisl libero varius lacus, eu bibendum tortor enim luctus enim. Duis neque sem, tempus sit amet leo ac, tempus dapibus quam. Ut quis orci vitae neque tristique elementum. Ut vitae malesuada ante. Praesent consequat metus mi. Nulla sit amet tellus at metus molestie ultricies. Nullam ipsum ipsum, varius at iaculis eu, euismod consectetur nulla. In viverra, odio et dapibus aliquam, nisi lectus bibendum urna, id euismod eros quam vitae ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        }
+      }
+    },
+    "terms.and.conditions.title" : {
+      "comment" : "Terms and conditions view",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms & Conditions"
+          }
+        }
+      }
+    },
+    "to.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To:"
+          }
+        }
+      }
+    },
+    "total.text" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
