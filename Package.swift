@@ -17,7 +17,7 @@ let package = Package(
         .package(url: "https://github.com/krzysztofzablocki/Inject.git", from: "1.2.4"),
         .package(url: "https://github.com/gonzalezreal/MarkdownUI", from: "1.1.1"),
         .package(url: "https://github.com/exyte/ActivityIndicatorView.git", from: "1.1.1"),
-        .package(path: "../Core")
+        .package(url: "https://github.com/Kajalluthra/Core.git", from: "1.0.0")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
